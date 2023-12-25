@@ -1,0 +1,18 @@
+{
+  "name": "findball",
+  "version": "1.0.0",
+  "description": "find the column that the ball falls out of at the bottom after dropping the ball from the ith column at the top, or -1 if the ball gets stuck in the box.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/sam2611/FinfBall.git)"
+  },
+  "keywords": [
+    "findball"
+  ],
+  "author": "sakshi",
+  "license": "ISC"
+}
